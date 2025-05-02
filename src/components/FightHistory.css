@@ -1,0 +1,29 @@
+.history-container {
+    max-width: 700px;
+    margin: 20px auto;
+    background: #fff3cd;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Comic Sans MS', cursive;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+  
+  .history-entry {
+    background: #fff8e1;
+    padding: 10px 15px;
+    border: 2px dashed #f4a261;
+    margin: 10px 0;
+    border-radius: 8px;
+  }
+  
+  .history-text {
+    font-size: 1rem;
+    color: #444;
+  }
+  
+  .peace-icon {
+    margin-left: 10px;
+    font-size: 1.2rem;
+    color: green;
+  }
+  
