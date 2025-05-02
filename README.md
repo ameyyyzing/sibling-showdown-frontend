@@ -1,16 +1,46 @@
-# sibling-showdown-frontend
+# 👊 Sibling Showdown! 💥
 
-This project is a fun web app called "Sibling Showdown!" that lets you log sibling fights, track peace resolutions, and earn badges for different actions.
+Welcome to **Sibling Showdown!**, a fun web app where you can log hilarious fights between siblings, track who started it, record the reason (including custom ones), make peace ✌️, and unlock fun achievement badges along the way! Whether it's about the TV remote or stolen snacks, keep score and settle sibling battles once and for all.
 
-## React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Live Demo
 
-Currently, two official plugins are available:
+🎯 [Click here to use the app](https://sibling-showdown-frontend.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🎮 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 👦 Choose who started the fight: Bro or Sis
+- 🧠 Select from preset or custom fight reasons
+- ✌️ Mark peace between siblings
+- 🏆 Unlock fun, activity-based badges
+- 📊 Live Scoreboard for bro vs sis tally
+- 🕓 Automatic time-stamping
+- 💾 Fight History (coming soon!)
+- 📱 Fully responsive on mobile and desktop
+
+---
+
+## ⚙️ Tech Stack
+
+| Tech         | Details                          |
+|--------------|----------------------------------|
+| **Frontend** | React with Vite                  |
+| **Routing**  | React Router                     |
+| **State**    | React Hooks (`useState`)         |
+| **Styling**  | Custom CSS                       |
+| **Deployment** | Vercel                         |
+| **Backend** *(Upcoming)* | Spring Boot + MongoDB |
+
+---
+
+## 📦 Getting Started Locally
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/ameyyyzing/sibling-showdown-frontend.git
+cd sibling-showdown-frontend
+npm install
+npm run dev
