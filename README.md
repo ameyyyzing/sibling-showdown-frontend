@@ -1,4 +1,8 @@
-# React + Vite
+# sibling-showdown-frontend
+
+This project is a fun web app called "Sibling Showdown!" that lets you log sibling fights, track peace resolutions, and earn badges for different actions.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
